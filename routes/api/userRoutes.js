@@ -10,13 +10,13 @@ const {
 
 } = require('../../controllers/userController.js');
 
-// /api/users
+
 router
   .route('/')
   .get(getUsers)
   .post(createUser);
 
-// /api/userses/:userseId
+
 router
   .route('/:userId')
   .get(getSingleUser)
