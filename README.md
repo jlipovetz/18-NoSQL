@@ -12,7 +12,7 @@ The repository can be found at: https://github.com/jlipovetz/18-NoSQL.
 ## Usage
 THis video demonstrates the usage of this code. Showing the ability to create, delete, update, and query the database database.
 
-Link to the Demo: https://drive.google.com/file/d/1-RrXq_wXVLO5w-c5cEjG_Ea1vnBkruPH/view
+Link to the Demo: https://drive.google.com/file/d/1-RrXq_wXVLO5w-c5cEjG_Ea1vnBkruPH/view?usp=sharing
 ## Credits
 
 ## License
