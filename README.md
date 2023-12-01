@@ -19,7 +19,7 @@ Link to the Demo: https://drive.google.com/file/d/1-RrXq_wXVLO5w-c5cEjG_Ea1vnBkr
 [MIT License](https://choosealicense.com/licenses/mit/)
 MIT License
 
-Copyright (c) 2023 Matthew Halder, Peter Krause, Joseph Lipovetz, Shahan Ameen, Griffin Thomas
+Copyright (c) Joseph Lipovetz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
